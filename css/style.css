@@ -37,8 +37,8 @@ img {
 }
 
 .checkers {
-	width: 9%;
-	padding-top: 10%;
+	width: 10%;
+	padding-top: 8%;
 	display: inline-block;
 	border: 1px solid yellow;
 	background-color: yellow;
